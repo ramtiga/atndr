@@ -12,8 +12,8 @@
 
 * :format is not required.
 * Returns a Hash the result.
-* Example 
 
+### Example 
 
     require "atndr"
     
